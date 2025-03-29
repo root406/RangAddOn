@@ -1,0 +1,6 @@
+name: RangAddOn
+version: '${project.version}'
+main: de.radjaguar2005.rangaddon.RangAddon
+description: RangAddOn Plugin for CloudNet
+author: RadJaguar2005
+
